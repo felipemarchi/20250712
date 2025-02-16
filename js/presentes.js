@@ -198,6 +198,42 @@ const data = {
             "imagem": "https://incentivale.com.br/images/portfolio/portf_havan.jpg",
             "preco": "300,00",
             "link": "https://www.havan.com.br/cartao-presente-havan"
+        },
+        {
+            "descricao": "SmartTv 32 polegadas",
+            "imagem": "https://imgs.casasbahia.com.br/55066196/1g.jpg?imwidth=500?imwidth=384",
+            "preco": "989,00",
+            "link": "https://www.casasbahia.com.br/smart-tv-32-toshiba-hd-tb020m-tela-dled-com-assistente-de-voz-integrado-vidaa-wi-fi-usb-hdmi/p/55066196?utm_campaign=DescontoEspecial&utm_medium=BuscaOrganica&utm_source=Google"
+        },
+        {
+            "descricao": "Kit Festão",
+            "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3nmcikpy863f4@resize_w450_nl.webp",
+            "preco": "99,00",
+            "link": "https://shopee.com.br/product/789002631/19599569473?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMzZvUC9seStqbjd0MGdtQ0orUm5SRjZIUXFqSTM4MVBiVDUreG9temhkWW0wT3EzNUtWL1ZGbXFqMzJTYUFrb3ppTTRZeWRFLzZ3VnVmcVZCU1RaV0xpVEdMM1M1Vm5RWjlvMTZpMEZaNDVnPT0"
+        },
+        {
+            "descricao": "Taças para Sobremesa",
+            "imagem": "https://a-static.mlcdn.com.br/800x560/jogo-tacas-vidro-sobremesa-sorvete-220ml-kit-6-unidades-nadir-figueiredo/bhr/124294/f9bc02dedcfed8557850523c2c61d137.jpeg",
+            "preco": "62,83",
+            "link": "https://www.magazineluiza.com.br/jogo-tacas-vidro-sobremesa-sorvete-220ml-kit-6-unidades-nadir-figueiredo/p/hkfke8f927/ud/coso/"
+        },
+        {
+            "descricao": "Impressora Multifuncional",
+            "imagem": "https://img.kalunga.com.br/fotosdeprodutos/218389d.jpg",
+            "preco": "404,10",
+            "link": "https://www.kalunga.com.br/prod/impressora-multifuncional-jato-de-tinta-deskjet-ink-advantage-2874-6w7g2a-colorida-wi-fi-conexao-usb-bivolt-hp-cx-1-un/218389"
+        },
+        {
+            "descricao": "Casal Fit",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_996517-MLB80186953086_112024-O.webp",
+            "preco": "158,77",
+            "link": "https://produto.mercadolivre.com.br/MLB-4043890714-kit-2-pares-tenis-para-academia-corrida-treino-confortavel-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&attributes=COLOR_SECONDARY_COLOR%3AUHJldG8vQnJhbmNvIC0gUHJldG8vTnVkZQ%3D%3D%2CSIZE%3AMzggQlI%3D"
+        },
+        {
+            "descricao": "Limpeza Pesada",
+            "imagem": "https://promarcconstrucaoeutilidades.shop/wp-content/uploads/2024/11/7370394502_1.webp",
+            "preco": "223,01",
+            "link": "https://promarcconstrucaoeutilidades.shop/product/lavadora-de-alta-pressao-wap-ousada-black-2200-1500w-1750-psi-mangueira-de-3-metros-engate-rapido/"
         }
     ]
 };
