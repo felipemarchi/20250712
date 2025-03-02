@@ -234,6 +234,24 @@ const data = {
             "imagem": "https://promarcconstrucaoeutilidades.shop/wp-content/uploads/2024/11/7370394502_1.webp",
             "preco": "223,01",
             "link": "https://promarcconstrucaoeutilidades.shop/product/lavadora-de-alta-pressao-wap-ousada-black-2200-1500w-1750-psi-mangueira-de-3-metros-engate-rapido/"
+        },
+        {
+            "descricao": "Coqueteleira Inox",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_747290-MLB80426481445_112024-F.webp",
+            "preco": "179,83",
+            "link": "https://produto.mercadolivre.com.br/MLB-5157435798-coqueteleira-inox-550ml-12-pecas-completo-para-drinks-e-bar-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic"
+        },
+        {
+            "descricao": "Mixer com copo",
+            "imagem": "https://electrolux.vtexassets.com/arquivos/ids/210171-1200-1200?v=637604902218900000&width=1200&height=1200&aspect=true",
+            "preco": "208,05",
+            "link": "https://loja.electrolux.com.br/mixer_3_em_1_eib10_electrolux/p?idsku=310118727"
+        },
+        {
+            "descricao": "Ideias Incríveis",
+            "imagem": "https://promarcconstrucaoeutilidades.shop/wp-content/uploads/2024/11/7370394502_1.webp",
+            "preco": "112",
+            "link": "https://www.tramontinastore.com.bo/images/t-store1.png"
         }
     ]
 };
