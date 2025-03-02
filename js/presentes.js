@@ -9,7 +9,7 @@ const data = {
         },
         {
             "descricao": "Ajude a Vitória a lavar louça",
-            "imagem": "https://fastshopbr.vtexassets.com/arquivos/ids/194592/0-BRBLF08BSANA-PRD-1500-1.jpg?v=638701422900700000",
+            "imagem": "https://fastshopbr.vtexassets.com/arquivos/ids/1694786/0_BRBLF08BSANA_PRD_1500_1.jpg?v=638760849165630000",
             "preco": "2.210,00",
             "link": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd/p?msclkid=5afe107d6c641262ca0277f56325981c"
         },
@@ -86,7 +86,7 @@ const data = {
             "link": "https://www.magazineluiza.com.br/sanduicheira-eletrica-click-preta-cadence-220v/p/eh40f692bh/ep/gset/?utm_source=bing&utm_medium=cpc&utm_campaign=bing_eco_per_ven_sho_all_sor_3p_all-products-std&partner_id=77025&utm_term=77025&msclkid=c9d55397a202154d66fe341fb81c0ae3&gclid=c9d55397a202154d66fe341fb81c0ae3&gclsrc=3p.ds"
         },
         {
-            "descricao": "Máquina De Waffle",
+            "descricao": "Máquina de Waffle",
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_669723-MLB47708121959_092021-F.webp",
             "preco": "195,41",
             "link": "https://produto.mercadolivre.com.br/MLB-1742201071-maquina-de-waffle-grill-pratic-mondial-1200w-gw-01-_JM?matt_tool=14213447&matt_word=&matt_source=bing&matt_campaign=MLB_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&matt_campaign_id=382858295&matt_ad_group=CE&matt_match_type=e&matt_network=o&matt_device=c&matt_keyword=default&msclkid=7733f9d523111a58c1fa9e5d39631f45&utm_source=bing&utm_medium=cpc&utm_campaign=MLB_ML_BING_AO_CE-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4581596253419776&utm_content=CE"
@@ -249,9 +249,9 @@ const data = {
         },
         {
             "descricao": "Ideias Incríveis",
-            "imagem": "https://promarcconstrucaoeutilidades.shop/wp-content/uploads/2024/11/7370394502_1.webp",
+            "imagem": "https://www.tramontinastore.com.bo/images/t-store1.png",
             "preco": "112",
-            "link": "https://www.tramontinastore.com.bo/images/t-store1.png"
+            "link": "https://www.tramontina.com.br/busca/?q=presente&search-button=&lang=null"
         }
     ]
 };
