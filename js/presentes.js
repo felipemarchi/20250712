@@ -231,9 +231,9 @@ const data = {
         },
         {
             "descricao": "Limpeza Pesada",
-            "imagem": "https://promarcconstrucaoeutilidades.shop/wp-content/uploads/2024/11/7370394502_1.webp",
-            "preco": "223,01",
-            "link": "https://promarcconstrucaoeutilidades.shop/product/lavadora-de-alta-pressao-wap-ousada-black-2200-1500w-1750-psi-mangueira-de-3-metros-engate-rapido/"
+            "imagem": "https://a-static.mlcdn.com.br/800x560/lavadora-alta-pressao-lav-1300-127v-vonder/interlevelbrasil/6864130001/e5a8e8682af421edc3b5f8ae46c9315c.jpeg",
+            "preco": "299,00",
+            "link": "https://www.magazineluiza.com.br/lavadora-alta-pressao-lav-1300-127v-vonder/p/hhge3fb1d6/fj/lprs/"
         },
         {
             "descricao": "Coqueteleira Inox",
@@ -252,6 +252,42 @@ const data = {
             "imagem": "https://www.tramontinastore.com.bo/images/t-store1.png",
             "preco": "112",
             "link": "https://www.tramontina.com.br/busca/?q=presente&search-button=&lang=null"
+        },
+        {
+            "descricao": "Pratos pra sopinha",
+            "imagem": "https://m.media-amazon.com/images/I/71vGY2H4MVL._AC_SX425_.jpg",
+            "preco": "158,83",
+            "link": "https://www.amazon.com.br/PORTO-BRASIL-PRATO-MADELEINE-BRANCO/dp/B076QLTWJT/ref=asc_df_B076QLTWJT?mcid=430c52528b2835d18771711d0da5cb9d&tag=googleshopp06-20&linkCode=df0&hvadid=709883367082&hvpos=&hvnetw=g&hvrand=779169520217140078&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9100494&hvtargid=pla-1721214664263&psc=1&language=pt_BR&gad_source=1"
+        },
+        {
+            "descricao": "Cineminha",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_739940-MLU72567968526_112023-O.webp",
+            "preco": "128,91",
+            "link": "https://www.mercadolivre.com.br/pipoqueira-antiaderente-tramontina-loreto-20cm-35l-starflon-cor-vermelho/p/MLB26502335?searchVariation=MLB26502335#polycard_client=search-nordic&searchVariation=MLB26502335&wid=MLB3896521777&position=25&search_layout=grid&type=product&tracking_id=f2010645-6ae4-406e-8361-7bc71402f5e2&sid=search"
+        },
+        {
+            "descricao": "Curso de culinária para o Felipe",
+            "imagem": "https://f.i.uol.com.br/fotografia/2022/03/05/16465202106223e792499ca_1646520210_3x2_rt.jpg",
+            "preco": "274",
+            "link": ""
+        },
+        {
+            "descricao": "Louça digna pra comida da Vih",
+            "imagem": "https://m.media-amazon.com/images/I/61X4yOQ+PoL._AC_SX679_.jpg",
+            "preco": "224,10",
+            "link": "https://www.amazon.com.br/Conjunto-Pratos-Entrada-Sobremesa-Org%C3%A2nico/dp/B0CFWV2RQR/ref=asc_df_B0CFWV2RQR?mcid=d08b97a6cb663c8a92e69160b5144b05&tag=googleshopp06-20&linkCode=df0&hvadid=709963703918&hvpos=&hvnetw=g&hvrand=4539456438656893369&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9100494&hvtargid=pla-2363475648643&psc=1&language=pt_BR&gad_source=1"
+        },
+        {
+            "descricao": "Garanta seu Ingresso pra renovação",
+            "imagem": "https://50emais.com.br/wp-content/uploads/2024/01/Casal.jpg",
+            "preco": "499,90",
+            "link": ""
+        },
+        {
+            "descricao": "Fura-fila do bar",
+            "imagem": "https://cdn0.casamentos.com.br/vendor/9120/3_2/960/jpg/screenshot-20221021-184811-gallery_13_159120-166638906324262.jpeg",
+            "preco": "150",
+            "link": ""
         }
     ]
 };
