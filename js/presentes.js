@@ -284,7 +284,7 @@ const data = {
             "link": ""
         },
         {
-            "descricao": "Fura-fila do bar",
+            "descricao": "Fura fila do bar",
             "imagem": "https://cdn0.casamentos.com.br/vendor/9120/3_2/960/jpg/screenshot-20221021-184811-gallery_13_159120-166638906324262.jpeg",
             "preco": "150",
             "link": ""
