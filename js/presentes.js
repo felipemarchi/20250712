@@ -56,12 +56,6 @@ const data = {
             "link": ""
         },
         {
-            "descricao": "Bolinhos da Vivi",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/batedeira-planetaria-oster-4l-850w-preto-inox-127v-obat641-127/continentalcenter/280212501030210011/61f88cacd0c3dfee08ffbb0181a8e382.jpeg",
-            "preco": "475,00",
-            "link": "https://www.magazineluiza.com.br/batedeira-planetaria-oster-4l-850w-preto-inox-127v-obat641-127/p/hbd10bc559/ep/btdc/"
-        },
-        {
             "descricao": "Casa cheirosinha",
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_946973-MLB79798374503_102024-F.webp",
             "preco": "65,00",
@@ -228,12 +222,6 @@ const data = {
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_996517-MLB80186953086_112024-O.webp",
             "preco": "158,77",
             "link": "https://produto.mercadolivre.com.br/MLB-4043890714-kit-2-pares-tenis-para-academia-corrida-treino-confortavel-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&attributes=COLOR_SECONDARY_COLOR%3AUHJldG8vQnJhbmNvIC0gUHJldG8vTnVkZQ%3D%3D%2CSIZE%3AMzggQlI%3D"
-        },
-        {
-            "descricao": "Limpeza Pesada",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/lavadora-alta-pressao-lav-1300-127v-vonder/interlevelbrasil/6864130001/e5a8e8682af421edc3b5f8ae46c9315c.jpeg",
-            "preco": "299,00",
-            "link": "https://www.magazineluiza.com.br/lavadora-alta-pressao-lav-1300-127v-vonder/p/hhge3fb1d6/fj/lprs/"
         },
         {
             "descricao": "Coqueteleira Inox",
