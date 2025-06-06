@@ -9,7 +9,7 @@ const data = {
         },
         {
             "descricao": "Ajude a Vitória a lavar louça",
-            "imagem": "https://fastshopbr.vtexassets.com/arquivos/ids/1694786/0_BRBLF08BSANA_PRD_1500_1.jpg?v=638760849165630000",
+            "imagem": "https://site.fastshop.com.br/_next/image?url=https%3A%2F%2Ffastshopbr.vtexassets.com%2Farquivos%2Fids%2F1855372%2F2_2_675b42ea447c42f8bd09ef29.jpg%3Fv%3D638841373443700000&w=540&q=75",
             "preco": "2.210,00",
             "link": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd/p?msclkid=5afe107d6c641262ca0277f56325981c"
         },
