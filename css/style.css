@@ -676,6 +676,11 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   display: block;
 }
+#fh5co-gallery-list li a.recebido {
+  pointer-events: none;
+  background: #000000ab;
+  border-radius: 7px;
+}
 #fh5co-gallery-list li a:before {
   position: absolute;
   top: 0;
@@ -698,6 +703,14 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-gallery-list li a:hover > .case-studies-icon {
   display: block;
+}		
+#fh5co-gallery-list li a .case-studies-fita {
+    width: auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: 100;
+    align-self: anchor-center;
 }
 #fh5co-gallery-list li a .case-studies-summary {
   width: auto;
@@ -706,6 +719,9 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 2em;
   position: absolute;
   z-index: 100;
+}
+#fh5co-gallery-list li a.recebido .case-studies-summary {
+  opacity: 0.25;
 }
 #fh5co-gallery-list li a .case-studies-icon {
   top: .5em;
