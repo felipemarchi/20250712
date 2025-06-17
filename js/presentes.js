@@ -83,7 +83,7 @@ const data = {
             "imagem": "https://imgs.ponto.com.br/1521377419/1xg.jpg",
             "preco": "144,12",
             "link": "https://www.pontofrio.com.br/faqueiro-para-churrasco-inox-tramontina-jumbo-12-pecas/p/1521377419?utm_campaign=DescontoEspecial&utm_medium=BuscaOrganica&utm_source=Bing",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Sanduicheira Elétrica",
