@@ -83,7 +83,7 @@ const data = {
             "imagem": "https://imgs.ponto.com.br/1521377419/1xg.jpg",
             "preco": "144,12",
             "link": "https://www.pontofrio.com.br/faqueiro-para-churrasco-inox-tramontina-jumbo-12-pecas/p/1521377419?utm_campaign=DescontoEspecial&utm_medium=BuscaOrganica&utm_source=Bing",
-            "recebido": true
+            "recebido": false
         },
         {
             "descricao": "Sanduicheira Elétrica",
@@ -230,7 +230,7 @@ const data = {
             "imagem": "https://imgs.casasbahia.com.br/55066196/1g.jpg?imwidth=500?imwidth=384",
             "preco": "989,00",
             "link": "https://www.casasbahia.com.br/smart-tv-32-toshiba-hd-tb020m-tela-dled-com-assistente-de-voz-integrado-vidaa-wi-fi-usb-hdmi/p/55066196?utm_campaign=DescontoEspecial&utm_medium=BuscaOrganica&utm_source=Google",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Kit Festão",
