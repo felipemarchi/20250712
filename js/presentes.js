@@ -244,7 +244,7 @@ const data = {
             "imagem": "https://a-static.mlcdn.com.br/800x560/jogo-tacas-vidro-sobremesa-sorvete-220ml-kit-6-unidades-nadir-figueiredo/bhr/124294/f9bc02dedcfed8557850523c2c61d137.jpeg",
             "preco": "62,83",
             "link": "https://www.magazineluiza.com.br/jogo-tacas-vidro-sobremesa-sorvete-220ml-kit-6-unidades-nadir-figueiredo/p/hkfke8f927/ud/coso/",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Impressora Multifuncional",
