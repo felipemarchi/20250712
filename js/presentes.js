@@ -13,7 +13,7 @@ const data = {
             "imagem": "https://site.fastshop.com.br/_next/image?url=https%3A%2F%2Ffastshopbr.vtexassets.com%2Farquivos%2Fids%2F1855372%2F2_2_675b42ea447c42f8bd09ef29.jpg%3Fv%3D638841373443700000&w=540&q=75",
             "preco": "2.210,00",
             "link": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd/p?msclkid=5afe107d6c641262ca0277f56325981c",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "A Vitória ronca",
@@ -132,14 +132,14 @@ const data = {
             "imagem": "https://a-static.mlcdn.com.br/800x560/kit-potes-hermeticos-plasticos-cinza-8-unidades-electrolux/eletromiller/41046083/fee489fc936922b4ef5c156bd6fa3f1a.jpeg",
             "preco": "109,99",
             "link": "https://www.magazineluiza.com.br/kit-potes-hermeticos-plasticos-cinza-8-unidades-electrolux/p/dhe254d7a2/ud/poud/?utm_source=bing&utm_medium=cpc&utm_campaign=bing_eco_per_ven_sho_all_sor_3p_all-products-std&partner_id=77025&utm_term=77025&msclkid=9aeff425a9c519ed253193adb4a82ab2&gclid=9aeff425a9c519ed253193adb4a82ab2&gclsrc=3p.ds",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Panela Wok Antiaderente",
             "imagem": "https://a-static.mlcdn.com.br/800x560/panela-wok-tramontina-loreto-antiaderente-max-vermelho-36-l-28-cm/homepoint/se7004/c18804c789cd919045824bfc6127033c.jpeg",
             "preco": "56,99",
             "link": "https://www.magazineluiza.com.br/panela-wok-tramontina-loreto-antiaderente-max-vermelho-36-l-28-cm/p/bgh14ea3d3/ud/pawo/?utm_source=bing&utm_medium=cpc&utm_campaign=bing_eco_per_ven_sho_all_sor_3p_all-products-std&partner_id=77025&utm_term=77025&msclkid=181994624aeb125bbc3df3ea5754a055&gclid=181994624aeb125bbc3df3ea5754a055&gclsrc=3p.ds",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Risotos da Vivi",
@@ -216,7 +216,7 @@ const data = {
             "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m130wc0x3jfi42.webp",
             "preco": "274,90",
             "link": "https://shopee.com.br/product/418336777/23297903206?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMHJEQWNOQkhRQXBGUjhJK1EyNldxd1RLVXNSR1BDUGYwcDU5SWYyOFc0bENjcnZydy94K05YVHJxa2xrRlVVZUZhTUpZZmxsZDFSNmJsK2V3cHRpQWMwT3dDR1l0a3RTRG1PQTBQc20xRktRPT0",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Vale Tudo",
@@ -272,7 +272,7 @@ const data = {
             "imagem": "https://electrolux.vtexassets.com/arquivos/ids/210171-1200-1200?v=637604902218900000&width=1200&height=1200&aspect=true",
             "preco": "208,05",
             "link": "https://loja.electrolux.com.br/mixer_3_em_1_eib10_electrolux/p?idsku=310118727",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Ideias Incríveis",
