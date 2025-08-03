@@ -69,7 +69,7 @@ const data = {
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_946973-MLB79798374503_102024-F.webp",
             "preco": "65,00",
             "link": "https://produto.mercadolivre.com.br/MLB-3025907594-difusor-aromatizador-de-ambiente-eletrico-aromaterapia-oleos-_JM?matt_tool=80367574&matt_word=&matt_source=bing&matt_campaign=MLB_ML_BING_AO_BEAUTY%20%26%20HEALTH-ALL-ALL_X_PLA_ALLB_TXS_ALL&matt_campaign_id=382858294&matt_ad_group=BEAUTY%20%26%20HEALTH&matt_match_type=e&matt_network=o&matt_device=c&matt_keyword=default&msclkid=c3656df977fd15104e820a716fd37124&utm_source=bing&utm_medium=cpc&utm_campaign=MLB_ML_BING_AO_BEAUTY%20%26%20HEALTH-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4582008568496629&utm_content=BEAUTY%20%26%20HEALTH",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Faqueiro Tramontina",
@@ -90,7 +90,7 @@ const data = {
             "imagem": "https://a-static.mlcdn.com.br/800x560/sanduicheira-eletrica-click-preta-cadence-220v/xstore/san400220/a672b16550bf9ea57a577bfeeee5ed0c.jpeg",
             "preco": "123,11",
             "link": "https://www.magazineluiza.com.br/sanduicheira-eletrica-click-preta-cadence-220v/p/eh40f692bh/ep/gset/?utm_source=bing&utm_medium=cpc&utm_campaign=bing_eco_per_ven_sho_all_sor_3p_all-products-std&partner_id=77025&utm_term=77025&msclkid=c9d55397a202154d66fe341fb81c0ae3&gclid=c9d55397a202154d66fe341fb81c0ae3&gclsrc=3p.ds",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Máquina de Waffle",
@@ -111,7 +111,7 @@ const data = {
             "imagem": "https://a-static.mlcdn.com.br/800x560/jogo-de-tacas-para-vinho-de-cristal-460ml-6-pecas-haus-concept-pleasure/magazineluiza/237989200/41026b029a221d86e378b142515227b0.jpg",
             "preco": "145,40",
             "link": "https://www.magazineluiza.com.br/jogo-de-tacas-para-vinho-de-cristal-460ml-6-pecas-haus-concept-pleasure/p/237989200/ud/tavi/?utm_source=bing&utm_medium=cpc&utm_campaign=bing_eco_per_ven_sho_all_sor_1p_all-products-std&partner_id=65140&utm_term=65140&gclid=ce7503777cee10fe433564ff67d714b7&gclsrc=3p.ds&msclkid=ce7503777cee10fe433564ff67d714b7",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Espelho porta chaves",
@@ -146,7 +146,7 @@ const data = {
             "imagem": "https://a-static.mlcdn.com.br/800x560/panela-wok-antiaderente-tramontina-paris-de-aluminio-chumbo-36cm/magazineluiza/234985900/cff97fce476be8847a7d9e635b4c51e3.jpg",
             "preco": "349,20",
             "link": "https://www.magazineluiza.com.br/panela-wok-antiaderente-tramontina-paris-de-aluminio-chumbo-36cm/p/234985900/ud/pawo/",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Soninho da Vivi",
@@ -174,7 +174,7 @@ const data = {
             "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz0w9hvw2exxd7@resize_w450_nl.webp",
             "preco": "296,00",
             "link": "https://shopee.com.br/product/393272747/23797714140?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMTcyd2JuZ0l5YnZBbEthREMrTFZCWXpGZStGOWNsdFdrdFBBY0dwNS9IU09ycStzWmVWdmpxODZnTU5nT3Irejh1SmRkVGs1SDUwNmk3M3pLS1lwZU5kQWFReFFWY0NCNFBwN1N3Mm8xV0N3PT0",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Videogame da cozinha",
@@ -258,14 +258,14 @@ const data = {
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_996517-MLB80186953086_112024-O.webp",
             "preco": "158,77",
             "link": "https://produto.mercadolivre.com.br/MLB-4043890714-kit-2-pares-tenis-para-academia-corrida-treino-confortavel-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&attributes=COLOR_SECONDARY_COLOR%3AUHJldG8vQnJhbmNvIC0gUHJldG8vTnVkZQ%3D%3D%2CSIZE%3AMzggQlI%3D",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Coqueteleira Inox",
             "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_747290-MLB80426481445_112024-F.webp",
             "preco": "179,83",
             "link": "https://produto.mercadolivre.com.br/MLB-5157435798-coqueteleira-inox-550ml-12-pecas-completo-para-drinks-e-bar-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic",
-            "recebido": false
+            "recebido": true
         },
         {
             "descricao": "Mixer com copo",
